@@ -1,6 +1,7 @@
-/* Original CSS by vic, translucency by EuhCertes, modified by a birb and other anons
+/* Original CSS by vic, translucency and personal modifications by birb
    Add this to the bottom of your vivaldi styles common.css
-   Licensed under WTFPL (Do What The Fuck You Want Public License)*/
+   This hasn't seen work since late 2019 and might be outdated the name is joking although it was ultimate at the time
+   Licensed under WTFPL */
 
 /* Remove header */
 :-webkit-any(.native, .maximized)#browser #header {
