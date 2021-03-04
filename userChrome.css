@@ -1,0 +1,14 @@
+/* This is actually a system agnostic css for firefox forks */
+/* C:\Users\-user-\AppData\Roaming\librewolf\Profiles\blahblah.default-release */
+
+#TabsToolbar { visibility: collapse !important; }
+
+/*This is for Sidebery extension*/
+#sidebar-box[sidebarcommand="_3c078156-979c-498b-8990-85f7987dd929_-sidebar-action"] #sidebar-header {
+  display: none;
+}
+
+/* Same for Treestyletab fork
+#sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"] #sidebar-header {
+  display: none;
+} */
